@@ -1,0 +1,25 @@
+.container
+{
+    border: 3px solid #ddd;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.right
+{
+    border: none;
+    padding: 15px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.left
+{
+    border: none;
+    padding: 15px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 15px;
+}
